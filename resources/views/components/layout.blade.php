@@ -12,7 +12,7 @@
 </head>
 <body>
     
-    {{-- <x-navbar/> --}}
+    <x-navbar/>
     
     <div class="container">
         <div class="row">
@@ -24,9 +24,9 @@
         </div>
     </div>
     
-    {{-- <x-footer>
-    </x-footer> --}}
-    {{-- <x-footer2/> --}}
+  
+    <x-footer1/>
+    <x-footer2/>
     
     
     

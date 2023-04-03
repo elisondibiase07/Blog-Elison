@@ -1,7 +1,7 @@
    <!-- Footer -->
    <footer class="text-center text-lg-start bg-white text-muted">
     <!-- Section: Social media -->
-    <section class="d-flex justify-content-center justify-content-lg-between p-4 border-bottom"style="background-color: rgba(252, 225, 169, 0.99);">
+    <section class="d-flex justify-content-center justify-content-lg-between p-4 mb-0 border-bottom"style="background-color: rgba(252, 225, 169, 0.99);">
       <!-- Left -->
       <div class="me-5 d-none d-lg-block" >
         <span>Get connected with us on social networks:</span>
@@ -35,9 +35,9 @@
   
     <!-- Section: Links  -->
     <section class="" style="background-color: rgba(252, 225, 169, 0.99);">
-      <div class="container text-center text-md-start mt-5">
+      <div class="container text-center text-md-start ">
         <!-- Grid row -->
-        <div class="row mt-3">
+        <div class="row">
           <!-- Grid column -->
           <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
             <!-- Content -->
