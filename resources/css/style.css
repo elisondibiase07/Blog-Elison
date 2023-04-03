@@ -1,0 +1,21 @@
+
+
+body{
+background-color: rgba(0, 0, 0, 0.781);
+
+}
+
+
+/* navbar */
+.navbar{
+    background-color: rgba(252, 225, 169, 0.99);
+    color: rgba(0, 0, 0, 0.652);
+}
+
+/* HEADER */
+
+.header{
+    background-image: url(https://i.pinimg.com/originals/86/3f/10/863f10e2159fff926de517da09e7481f.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
